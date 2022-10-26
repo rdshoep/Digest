@@ -500,3 +500,5 @@ body:not(.home-template) .gh-article-image {
         font-size: 1.6rem;
     }
 }
+
+@import "prism.css";
